@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Burn House';
+    src: url('BurnHouseRegular.woff2') format('woff2'),
+        url('BurnHouseRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

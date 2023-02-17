@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Areion';
+    src: url('Areion-Italic.woff2') format('woff2'),
+        url('Areion-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Areion';
+    src: url('Areion-Italic.woff2') format('woff2'),
+        url('Areion-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
